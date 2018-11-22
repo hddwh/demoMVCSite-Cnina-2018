@@ -1,7 +1,7 @@
-git status
+锘縢it status
 git add .
 git status
 git commit -a -m "your file"
-根据提示输入邮箱 密码
+鏍规嵁鎻愮ず杈撳叆閭  瀵嗙爜
 git commit -a -m "your file"
 git push origin master
