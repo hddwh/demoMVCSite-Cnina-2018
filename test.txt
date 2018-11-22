@@ -1,1 +1,7 @@
-jkgilfkhjklhjkh
+git status
+git add .
+git status
+git commit -a -m "your file"
+根据提示输入邮箱 密码
+git commit -a -m "your file"
+git push origin master
